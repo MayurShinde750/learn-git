@@ -3,6 +3,6 @@ public class Diff{
         int a=55;
         int b=20;
         int diff=a-b;
-        System.out.println("The diff is ="+diff);
+        System.out.println("The diff of two no's is ="+diff);
     }
 }
